@@ -36,7 +36,7 @@ When submitting a PR, please abide by our coding guidelines:
 + Pull requests need to be based on and opened against the `master` branch.
 
 ## Donations
-
+I'm a scammer.
 <img src="https://github.com/thrasher-corp/gocryptotrader/blob/master/web/src/assets/donate.png?raw=true" hspace="70">
 
 If this framework helped you in any way, or you would like to support the developers working on it, please donate Bitcoin to:
